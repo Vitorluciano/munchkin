@@ -7,9 +7,9 @@
 
 - as regras e mecânicas do jogo serão as mesmas da versão digital
 
-## Regras:
 
-### visão geral:
+## visão geral:
+
 - criação de personagem:
     - começar com raça humano nível 1
     - começar sem classes
@@ -50,3 +50,35 @@
     - jogar nova classe ou raça (a qualquer momento)
     - vender itens para ganhar níveis (não durante combate)
     - jogar um item (alguns poucos podem ser jogados durante combate)
+
+
+## Tesouros
+
+TODO
+
+## Visão Geral do Combate
+
+TODO
+
+## Monstros
+
+TODO
+
+## Pedindo Ajuda
+
+TODO
+
+## Morte 
+
+TODO
+
+## Maldições
+
+TODO
+
+## Variantes
+
+TODO
+
+
+disclaimer: estas regras foram retiradas da versão digital do Munchkin encontrado na steam.
